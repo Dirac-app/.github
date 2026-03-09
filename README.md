@@ -1,2 +1,1 @@
-# .github
-Our Github README.md
+![Dirac Banner](dirac_banner_animated.gif)
