@@ -1,1 +1,1 @@
-![Dirac Banner](dirac_banner_animated.gif)
+![Dirac Banner](dirac.gif)
